@@ -51,7 +51,7 @@ export default async function Home() {
                 <Link href="/services">Our Services <ArrowRight className="ml-2 h-5 w-5" /></Link>
               </Button>
               <Button asChild size="lg" variant="outline">
-                <Link href="/contact">Contact Sales</Link>
+                <Link href="/contact">Contact Us</Link>
               </Button>
             </div>
           </div>

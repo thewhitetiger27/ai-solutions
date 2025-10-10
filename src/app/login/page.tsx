@@ -72,7 +72,7 @@ export default function LoginPage() {
               <Bot className="h-12 w-12 text-primary" />
             </div>
             <CardTitle className="font-headline text-2xl">Admin Login</CardTitle>
-            <CardDescription>Enter the login credentials</CardDescription>
+            <CardDescription>Enter your credentials to access the admin dashboard.</CardDescription>
           </CardHeader>
           <CardContent>
             <Form {...form}>
